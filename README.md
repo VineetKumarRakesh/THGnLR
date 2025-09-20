@@ -1,6 +1,5 @@
 # THGnLR: An Intelligent Application for Automated, Large-Scale Multimodal Human Audio-Video Data Acquisition and Auto-Cleansing
 **An Intelligent Application for Automated, Large-Scale Multimodal Human Audio–Video Data Acquisition and Auto-Cleansing**  
-*AICDAKD 2025 · Track-2 — Application of Computational Intelligence*
 
 > ⚠️ **Status:** Pre-publication. This repo is intentionally code-free. The code exists; it’s currently enjoying a relaxing spa day before camera-ready. Academic collaborations welcome—see **Partner With Us**.
 
